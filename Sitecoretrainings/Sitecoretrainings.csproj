@@ -147,6 +147,7 @@
     </Compile>
     <Compile Include="Jobs\HelloWorldJob.cs" />
     <Compile Include="Jobs\PublishLoggerJob.cs" />
+    <Compile Include="Jobs\ScheduledSitecoreJob.cs" />
     <Compile Include="Pipelines\CustomPipelineProcessor.cs" />
     <Compile Include="Processors\CustomProcessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Trainings\\Sitecoretrainings\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.HelloWorldJob.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.HelloWorldJob.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|c:\\trainings\\sitecoretrainings\\sitecoretrainings\\jobs\\scheduledsitecorejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|solutionrelative:sitecoretrainings\\jobs\\scheduledsitecorejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Jobs\\PublishLoggerJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|solutionrelative:Sitecoretrainings\\Jobs\\PublishLoggerJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|c:\\trainings\\sitecoretrainings\\sitecoretrainings\\events\\publisheventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|solutionrelative:sitecoretrainings\\events\\publisheventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Jobs\\PublishLoggerJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sitecoretrainings\\Jobs\\PublishLoggerJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.PublishLoggerJob.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.PublishLoggerJob.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Jobs\\HelloWorldJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sitecoretrainings\\Jobs\\HelloWorldJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|c:\\trainings\\sitecoretrainings\\sitecoretrainings\\examples\\4_jobexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|C:\\Trainings\\Sitecoretrainings\\sitecoretrainings\\examples\\4_jobexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|solutionrelative:sitecoretrainings\\examples\\4_jobexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.PublishLoggerJob.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|solutionrelative:Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.PublishLoggerJob.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Jobs\\HelloWorldJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06EFE6-585A-4EEE-9F0F-5A3655B2DCB7}|Sitecoretrainings\\Sitecoretrainings.csproj|solutionrelative:Sitecoretrainings\\Jobs\\HelloWorldJob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ScheduledSitecoreJob.cs",
+              "DocumentMoniker": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Jobs\\ScheduledSitecoreJob.cs",
+              "RelativeDocumentMoniker": "Sitecoretrainings\\Jobs\\ScheduledSitecoreJob.cs",
+              "ToolTip": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Jobs\\ScheduledSitecoreJob.cs",
+              "RelativeToolTip": "Sitecoretrainings\\Jobs\\ScheduledSitecoreJob.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:30:31.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PublishEventHandler.cs",
               "DocumentMoniker": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Events\\PublishEventHandler.cs",
               "RelativeDocumentMoniker": "Sitecoretrainings\\Events\\PublishEventHandler.cs",
               "ToolTip": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Events\\PublishEventHandler.cs",
               "RelativeToolTip": "Sitecoretrainings\\Events\\PublishEventHandler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T10:33:26.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Sitecoretrainings.PublishLoggerJob.config",
               "DocumentMoniker": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.PublishLoggerJob.config",
               "RelativeDocumentMoniker": "Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.PublishLoggerJob.config",
@@ -59,25 +72,11 @@
               "RelativeToolTip": "Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.PublishLoggerJob.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-29T10:29:28.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T10:29:28.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Sitecoretrainings.HelloWorldJob.config",
-              "DocumentMoniker": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.HelloWorldJob.config",
-              "RelativeDocumentMoniker": "Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.HelloWorldJob.config",
-              "ToolTip": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.HelloWorldJob.config",
-              "RelativeToolTip": "Sitecoretrainings\\App_Config\\Include\\Sitecoretrainings\\Sitecoretrainings.HelloWorldJob.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-29T10:27:24.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "4_JobExample.cs",
               "DocumentMoniker": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Examples\\4_JobExample.cs",
               "RelativeDocumentMoniker": "Sitecoretrainings\\Examples\\4_JobExample.cs",
@@ -85,12 +84,11 @@
               "RelativeToolTip": "Sitecoretrainings\\Examples\\4_JobExample.cs",
               "ViewState": "AgIAAK4BAAAAAAAAAAAYwM4BAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:21:08.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T10:21:08.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HelloWorldJob.cs",
               "DocumentMoniker": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Jobs\\HelloWorldJob.cs",
               "RelativeDocumentMoniker": "Sitecoretrainings\\Jobs\\HelloWorldJob.cs",
@@ -98,18 +96,17 @@
               "RelativeToolTip": "Sitecoretrainings\\Jobs\\HelloWorldJob.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T10:04:17.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T10:04:17.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PublishLoggerJob.cs",
               "DocumentMoniker": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Jobs\\PublishLoggerJob.cs",
               "RelativeDocumentMoniker": "Sitecoretrainings\\Jobs\\PublishLoggerJob.cs",
               "ToolTip": "C:\\Trainings\\Sitecoretrainings\\Sitecoretrainings\\Jobs\\PublishLoggerJob.cs",
               "RelativeToolTip": "Sitecoretrainings\\Jobs\\PublishLoggerJob.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T09:56:17.572Z",
               "EditorCaption": ""
